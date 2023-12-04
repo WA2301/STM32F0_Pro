@@ -1,0 +1,16 @@
+DebugConfig
+
+Output/*
+!Output/*.bin
+!Output/*.hex
+!Output/*.lib
+
+RTE
+
+*.uvguix.*
+*.scvd
+
+*.lst
+
+JLinkLog.txt
+JLinkSettings.ini
